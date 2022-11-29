@@ -1,0 +1,38 @@
+* {
+	padding: 50;
+	margin: 200;
+	box-sizing: border-box;
+    align-items: center;
+	font-family: cursive;
+}
+
+body {
+    align-content: center;
+	background: #f2f2f2;
+	overflow: auto;
+}
+
+h1{
+	text-align: justify;
+	margin: 10%;
+	font-size: 3rem;
+    box-sizing: border-box;
+	
+}
+
+ul {
+	text-align: center;
+	padding-left: 10%;
+	padding: 10%;
+	font-size: 2rem;
+	list-style: circle;
+}
+
+li:hover{
+    text-align: center;
+	color:red;
+	margin: 4%;
+	transition: 1.5s ease;
+	cursor: pointer;
+}
+
